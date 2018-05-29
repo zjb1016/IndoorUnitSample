@@ -36,7 +36,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     //private String url = "rtsp://admin:hk123456@192.168.0.64:554/h264/ch1/sub/av_stream";
     //private String url = "rtmp://127.0.0.1:1935/live/video";
     private String url;
-    int i;
+    int j;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
