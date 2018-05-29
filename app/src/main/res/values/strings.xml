@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">可视对讲</string>
+    <string name="open_video_failed">不能打开视频的播放地址</string>
+
+</resources>
